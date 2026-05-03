@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Moon
 
-<!--
-**Moon-python/Moon-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student who codes too much. I work on **soft materials & electronic devices**, and on the side I build small tools to make research less painful.
 
-Here are some ideas to get you started:
+- 🔬 **Research:** soft materials, electronic devices
+- 🛠️ **Side quest:** tools for academic workflows — reading, figures, lab ops
+- 🤖 **Stack I reach for:** Python · TypeScript · LaTeX/TikZ · Claude Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Things I'm building in public
+
+- [**zotero-reading-flow**](https://github.com/Moon-python/zotero-reading-flow) — Zotero plugin that turns your library into a reading dashboard (progress, status, last-read).
+- [**decide-skill**](https://github.com/Moon-python/decide-skill) — Claude Code slash command that researches best practice and decides autonomously, instead of bouncing "X or Y?" questions back to you.
+- [**claude-code-harness**](https://github.com/Moon-python/claude-code-harness) — Production-grade hook system for Claude Code: safety guards, skill suggestions, session capture, context injection.
+
+More experiments live in private repos until they're ready to come out. The pattern: AI tooling × research workflow.
+
+---
+
+_Open to chats about research tooling, Claude Code patterns, and Zotero workflows — feel free to open an issue on any of the repos above._
