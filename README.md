@@ -1,21 +1,14 @@
-### Hi, I'm Moon
+# Moon-python
 
-PhD student who codes too much. I work on **soft materials & electronic devices**, and on the side I build small tools to make research less painful.
+This is a legacy profile repository from my previous GitHub username.
 
-- 🔬 **Research:** soft materials, electronic devices
-- 🛠️ **Side quest:** tools for academic workflows — reading, figures, lab ops
-- 🤖 **Stack I reach for:** Python · TypeScript · LaTeX/TikZ · Claude Code
+Current profile:
 
----
+- [moonweave](https://github.com/moonweave)
 
-#### Things I'm building in public
+Current project spaces:
 
-- [**zotero-reading-flow**](https://github.com/Moon-python/zotero-reading-flow) — Zotero plugin that turns your library into a reading dashboard (progress, status, last-read).
-- [**decide-skill**](https://github.com/Moon-python/decide-skill) — Claude Code slash command that researches best practice and decides autonomously, instead of bouncing "X or Y?" questions back to you.
-- [**claude-code-harness**](https://github.com/Moon-python/claude-code-harness) — Production-grade hook system for Claude Code: safety guards, skill suggestions, session capture, context injection.
+- [Moonweave Systems](https://github.com/Moonweave-Systems) - agentic coding infrastructure, decision kernels, workflow checks, and developer automation.
+- [Moonweave Research](https://github.com/Moonweave-Research) - evidence-backed research workflows, citation verification, Zotero tooling, figure workflows, and local knowledge systems.
 
-More experiments live in private repos until they're ready to come out. The pattern: AI tooling × research workflow.
-
----
-
-_Open to chats about research tooling, Claude Code patterns, and Zotero workflows — feel free to open an issue on any of the repos above._
+The active profile README now lives in [moonweave/moonweave](https://github.com/moonweave/moonweave).
